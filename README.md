@@ -43,7 +43,7 @@ If you want to build the application yourself follow the below steps:
 
 ## AudioVedioApp (Web Application)
 
-This application is present [here](/AudioVedioApp/). I have used my App ID in this Web Applicatio.
+This application is present [here](/AudioVedioApp/).
 
 If you want to build the application yourself follow the below steps:
 
@@ -58,11 +58,11 @@ If you want to build the application yourself follow the below steps:
 
 4. Execute "npm install" command  in the terminal- this will download the all the neccesary  node modules.
 
-5. Execute "npm start" command - this will start the development server
+5. Execute "npm start" command in the terminal - this will start the development server
 
 ## WebApp (Web Application)
 
-This application is present [here](/WebApp/). I have used my App ID in this APK.
+This application is present [here](/WebApp/).
 
 If you want to build the application yourself follow the below steps:
 
@@ -77,7 +77,7 @@ const port = "8080";
 
 3. Execute "npm install" command  in the terminal- this will download the all the neccessary node modules.
 
-4. Execute "npm start" command - this will start the development server
+4. Execute "npm start" command in the terminal - this will start the development server
 
 
 ## Future Scope
