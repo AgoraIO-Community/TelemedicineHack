@@ -41,6 +41,44 @@ If you want to build the application yourself follow the below steps:
  ```
 3. Build the app
 
+## AudioVedioApp (Web Application)
+
+This application is present [here](/AudioVedioApp/). I have used my App ID in this Web Applicatio.
+
+If you want to build the application yourself follow the below steps:
+
+1. Create a developer account at [Agora.io](https://agora.io) and obtain an App ID.
+
+2. Update "\AudioVedioApp\static\agora.config.js" with your App ID: 
+
+ ```xml
+ const AGORA_APP_ID = '59c2e4674d2c4e45b154d9f63e69522f'
+ ```
+3. Open the project in visual studi code
+
+4. Execute "npm install" command  in the terminal- this will download the all the neccesary  node modules.
+
+5. Execute "npm start" command - this will start the development server
+
+## WebApp (Web Application)
+
+This application is present [here](/WebApp/). I have used my App ID in this APK.
+
+If you want to build the application yourself follow the below steps:
+
+1. Open the project in visual studio code
+
+2. update "src\static\property.js" with ip and port where AudioVedioApp is running. 
+
+ ```xml
+ const ip = "localhost";
+const port = "8080";
+ ```
+
+3. Execute "npm install" command  in the terminal- this will download the all the neccessary node modules.
+
+4. Execute "npm start" command - this will start the development server
+
 
 ## Future Scope
 
