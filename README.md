@@ -58,7 +58,7 @@ If you want to build the application yourself follow the below steps:
 
 4. Execute "npm install" command  in the terminal- this will download the all the neccesary  node modules.
 
-5. Execute "npm start" command in the terminal - this will start the development server
+5. Execute "npm start" command in the terminal - this will start the development server to make Audio and Vedio calls.
 
 ## WebApp (Web Application)
 
@@ -77,7 +77,7 @@ const port = "8080";
 
 3. Execute "npm install" command  in the terminal- this will download the all the neccessary node modules.
 
-4. Execute "npm start" command in the terminal - this will start the development server
+4. Execute "npm start" command in the terminal - this will start the development server where doctors can create and use their account.
 
 
 ## Future Scope
