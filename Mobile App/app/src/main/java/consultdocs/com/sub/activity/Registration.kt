@@ -153,7 +153,8 @@ class Registration : AppCompatActivity(), TaskOnComplete {
             }
             ApplicationConstants.SUCCESS_RESP -> {
                 mProgressBar.visibility = View.GONE
-                startActivity(Intent(this, HomeScreen::class.java))
+                ApplicationUtility.showToast(this, this.resources.getString(R.string.reg_success))
+                startActivity(Intent(this, Login::class.java))
             }
             ApplicationConstants.TASK_CANCELLED -> {
                 mProgressBar.visibility = View.GONE

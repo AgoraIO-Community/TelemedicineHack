@@ -16,6 +16,7 @@
     <string name="sign_up">Register</string>
     <string name="cancel">Cancel</string>
     <string name="registration">Registration</string>
+    <string name="reg_success">You have registered successfully. Please login.</string>
     <string name="otp_tick_text">Click to resend in %s seconds</string>
     <string name="otp_tick_over_text">Timer has expired before verification, please regenerate OTP.</string>
     <string name="otp_input_resend">Click to resend OTP</string>
