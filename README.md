@@ -1,4 +1,4 @@
-# TelemedicineHack
+# Helping Doctors
 
 ## Introduction
 
