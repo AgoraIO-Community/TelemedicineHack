@@ -1,4 +1,4 @@
-# TelemedicineHack
+# Helping Doctors
 
 ## Introduction
 
@@ -52,7 +52,7 @@ If you want to build the application yourself follow the below steps:
 2. Update "\AudioVedioApp\static\agora.config.js" with your App ID: 
 
  ```xml
- const AGORA_APP_ID = '59c2e4674d2c4e45b154d9f63e69522f'
+ const AGORA_APP_ID = 'YOUR_APP_ID'
  ```
 3. Open the project in visual studi code
 
@@ -72,7 +72,7 @@ If you want to build the application yourself follow the below steps:
 
  ```xml
  const ip = "localhost";
-const port = "8080";
+ const port = "8080";
  ```
 
 3. Execute "npm install" command  in the terminal- this will download the all the neccessary node modules.
