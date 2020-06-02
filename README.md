@@ -56,7 +56,7 @@ If you want to build the application yourself follow the below steps:
  ```
 3. Open the project in visual studio code
 
-4. Execute "npm install" command  in the terminal- this will download the all the neccesary  node modules.
+4. Execute "npm install" command  in the terminal- this will download the all the necesary  node modules.
 
 5. Execute "npm start" command in the terminal - this will start the development server to make Audio and Vedio calls.
 
