@@ -54,7 +54,7 @@ If you want to build the application yourself follow the below steps:
  ```xml
  const AGORA_APP_ID = 'YOUR_APP_ID'
  ```
-3. Open the project in visual studi code
+3. Open the project in visual studio code
 
 4. Execute "npm install" command  in the terminal- this will download the all the neccesary  node modules.
 
