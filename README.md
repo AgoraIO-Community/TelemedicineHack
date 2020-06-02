@@ -24,7 +24,7 @@ In today's world where everyone is using a smartphone and where there is an app 
 
 We have designed and developed a mobile app for the users (patients), using which they are only a click away from consulting a doctor of their choice.
 
-The users can consult with the doctor though an audio or video call.
+The users can consult with the doctor through an audio or video call.
 
 ## Mobile Application (Android)
 
