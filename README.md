@@ -41,7 +41,7 @@ If you want to build the application yourself follow the below steps:
  ```
 3. Build the app
 
-## AudioVedioApp (Web Application)
+## AudioVideoApp (Web Application)
 
 This application is present [here](/AudioVedioApp/).
 
